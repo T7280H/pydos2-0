@@ -1,0 +1,8 @@
+colorama
+termcolor
+rich
+requests
+psutil
+pyfiglet
+flask
+--upgrade pip
