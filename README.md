@@ -1,4 +1,4 @@
-![Pydos logo](./image/final.py)
+![Pydos logo](./image/final.png)
 ## PYDOS VERSION 2.0 FINAL
 Hello, welcome to Readme
 Pydos is a Python command line that does things
