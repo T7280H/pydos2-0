@@ -127,6 +127,8 @@ def login():
     
     else:
         console.print("[bold red]**ERR**: LOGIN FAILED[/bold red]")
+        time.sleep(2)
+        sys.exit(0)
 
 class PyDOSCmd(Cmd):
     prompt = Back.BLUE + Fore.WHITE + f'PyDOS\\{os.path.basename(os.getcwd())}> ' + Style.RESET_ALL
