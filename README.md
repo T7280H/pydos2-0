@@ -23,7 +23,7 @@ mkdir <folder>
 ```
 **Download Pydos From GitHub**
 ```bash
-git clone <link>
+git clone https://github.com/T7280H/pydos2-0
 ```
 **Enter the installation folder**
 ```bash
